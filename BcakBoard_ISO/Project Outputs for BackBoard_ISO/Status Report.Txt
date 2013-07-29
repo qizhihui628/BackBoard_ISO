@@ -1,0 +1,23 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [BackBoard_ISO.PrjPcb]
+   Generated File[ISO_board.GTL]
+   Generated File[ISO_board.GBL]
+   Generated File[ISO_board.GTO]
+   Generated File[ISO_board.GTP]
+   Generated File[ISO_board.GTS]
+   Generated File[ISO_board.GBS]
+   Generated File[ISO_board.GBP]
+   Generated File[ISO_board.GBO]
+   Generated File[ISO_board.GM1]
+   Generated File[ISO_board.GD1]
+   Generated File[ISO_board.GG1]
+   Generated File[ISO_board.RUL]
+   Generated File[ISO_board.EXTREP]
+   Generated File[ISO_board.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 14:03:03 On 2013/6/7
